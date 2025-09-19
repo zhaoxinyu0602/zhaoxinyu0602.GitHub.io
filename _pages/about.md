@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 赵新宇，南京大学新闻传播学院 2025 级传播学硕士。目前正学习王成军老师的计算传播学导论课程。你可以在这里找到他的简历。
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+<img src="1.png" align = "middle" width = "800px">
 
 
 <br>
