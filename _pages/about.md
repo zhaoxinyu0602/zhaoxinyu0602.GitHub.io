@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: 相关
 permalink: /
 subtitle: 
 profile:
