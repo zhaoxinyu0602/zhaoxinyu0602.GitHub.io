@@ -11,16 +11,16 @@ nav_order: 5
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none"; text-align=center>2021/09-2022/06</td>
-    <td style="border: none;text-align="center">在学院“石榴花开”民族工作室担任干事</td>
+    <td style="border: none;";align:center>2021/09-2022/06</td>
+    <td style="border: none;";align:center>在学院“石榴花开”民族工作室担任干事</td>
   </tr>
   <tr>
-    <td style="border: none;text-align="center">2021/09-2022/06</td>
-    <td style="border: none;text-align="center">在新罗韩语社担任干事</td>
+    <td style="border: none;";align:center>2021/09-2022/06</td>
+    <td style="border: none;";align:center>在新罗韩语社担任干事</td>
   </tr>
   <tr>
-    <td style="border: none;text-align="center">2021/09-2022/06</td>
-    <td style="border: none;text-align="center">在中北新闻社担任干事</td>
+    <td style="border: none;";align:center>2021/09-2022/06</td>
+    <td style="border: none;";align:center>在中北新闻社担任干事</td>
   </tr>
 </table>
 
