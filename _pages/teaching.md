@@ -11,7 +11,7 @@ nav_order: 5
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; text-align="center">2021/09-2022/06</td>
+    <td style="border: none"; text-align=center>2021/09-2022/06</td>
     <td style="border: none;text-align="center">在学院“石榴花开”民族工作室担任干事</td>
   </tr>
   <tr>
