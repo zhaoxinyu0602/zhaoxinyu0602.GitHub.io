@@ -14,6 +14,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
+
 赵新宇，2003年生，辽宁丹东人，南京大学新闻传播学院传播学2025级硕士，研究方向主要为网络舆论与公共传播方向。目前正在学习王成军老师开设的《计算传播学导论》课程。这里能找到他的简历。
 
 <img src="assets/img/222.jpg" align = "middle" width = "800px">
