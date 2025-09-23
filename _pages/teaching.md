@@ -50,7 +50,7 @@ nav_order: 5
   </tr>
   <tr>
     <td style="border: none;">普通话水平</td>
-    <td style="border: none;">二级甲等</td>
+    <td style="border: none;">二甲</td>
   </tr>
 </table>
 
