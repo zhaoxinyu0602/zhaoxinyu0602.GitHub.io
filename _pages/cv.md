@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: false
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: 25学硕502025110038赵新宇个人简历
 description: 
 
 toc:
