@@ -28,12 +28,12 @@ nav_order: 5
 
 <table style="border: none； border-collapse: collapse；">
   <tr>
-    <td style="border: none；">2021/09-2022/03</td>
-    <td style="border: none；">中北大学人文社会科学学院辩论队四强</td>
+    <td style="border: none；" >2021/09-2022/03</td>
+    <td style="border: none；" >中北大学人文社会科学学院辩论队四强</td>
   </tr>
   <tr>
-    <td style="border: none；">2025/03-2025/06</td>
-    <td style="border: non；">中北大学人文社会科学学院本科生综合奖三等奖学金</td>
+    <td style="border: none；" >2025/03-2025/06</td>
+    <td style="border: none；" >中北大学人文社会科学学院本科生综合奖三等奖学金</td>
   </tr>
 </table>
 
