@@ -9,18 +9,18 @@ nav_order: 5
 
 ## 活动经历
 
-<table style="border: none； border-collapse: collapse；">
+<table  border="0">
   <tr>
-    <td style="border: none；" >2021/09-2022/06</td>
-    <td style="border: none；" >在学院“石榴花开”民族工作室担任干事</td>
+    <td  align="center">2021/09-2022/06</td>
+    <td  align="center">在学院“石榴花开”民族工作室担任干事</td>
   </tr>
   <tr>
-    <td style="border: none；" >2021/09-2022/06</td>
-    <td style="border: none；" >在新罗韩语社担任干事</td>
+    <td  align="center">2021/09-2022/06</td>
+    <td  align="center">在新罗韩语社担任干事</td>
   </tr>
   <tr>
-    <td style="border: none；" >2021/09-2022/06</td>
-    <td style="border: none；" >在中北新闻社担任干事</td>
+    <td  align="center">2021/09-2022/06</td>
+    <td  align="center">在中北新闻社担任干事</td>
   </tr>
 </table>
 
@@ -29,7 +29,7 @@ nav_order: 5
 <table border="0">
   <tr>
     <td align="center">2021/09-2022/03</td>
-    <td align="center" >中北大学人文社会科学学院辩论队四强</td>
+    <td align="center">中北大学人文社会科学学院辩论队四强</td>
   </tr>
   <tr>
     <td align="center">2025/03-2025/06</td>
@@ -39,18 +39,18 @@ nav_order: 5
 
 ## 其他活动
 
-<table style="border: none；border-collapse: collapse；">
+<table border="0">
   <tr>
-    <td style="border: none；">大学生英语四级</td>
-    <td style="border: none；">553分</td>
+    <td align="center">大学生英语四级</td>
+    <td align="center">553分</td>
   </tr>
   <tr>
-    <td style="border: none；">大学生英语六级</td>
-    <td style="border: none；">473分</td>
+    <td align="center">大学生英语六级</td>
+    <td align="center">473分</td>
   </tr>
   <tr>
-    <td style="border: none；">普通话水平</td>
-    <td style="border: none；">二甲</td>
+    <td align="center">普通话水平</td>
+    <td align="center">二甲</td>
   </tr>
 </table>
 
