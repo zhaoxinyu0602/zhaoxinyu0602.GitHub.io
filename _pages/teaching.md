@@ -8,8 +8,7 @@ nav_order: 5
 ---
 
 ## 活动经历
-
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none； border-collapse: collapse；">
   <tr>
     <td style="border: none；" >2021/09-2022/06</td>
     <td style="border: none；" >在学院“石榴花开”民族工作室担任干事</td>
@@ -25,8 +24,7 @@ nav_order: 5
 </table>
 
 ## 活动荣誉
-
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none； border-collapse: collapse；">
   <tr>
     <td style="border: none；">2021/09-2022/03</td>
     <td style="border: none；">中北大学人文社会科学学院辩论队四强</td>
@@ -38,8 +36,7 @@ nav_order: 5
 </table>
 
 ## 其他活动
-
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none；border-collapse: collapse；">
   <tr>
     <td style="border: none；">大学生英语四级</td>
     <td style="border: none；">553分</td>
