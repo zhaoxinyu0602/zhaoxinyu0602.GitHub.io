@@ -24,6 +24,7 @@ nav_order: 5
   </tr>
 </table>
 
+
 ## 活动荣誉
 
 <table border="0">
@@ -36,6 +37,7 @@ nav_order: 5
     <td align="center">中北大学人文社会科学学院本科生综合奖三等奖学金</td>
   </tr>
 </table>
+
 
 ## 其他活动
 
