@@ -25,7 +25,7 @@ nav_order: 5
 
 
 ## 活动荣誉
-<table border="0">
+<table>
   <tr>
     <td align="center">2021/09-2022/03</td>
     <td align="center">中北大学人文社会科学学院辩论队四强</td>
@@ -38,7 +38,7 @@ nav_order: 5
 
 
 ## 其他活动
-<table border="0">
+<table>
   <tr>
     <td align="center">大学生英语四级</td>
     <td align="center">553分</td>
