@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ## 活动经历
+
 <table style="border: none； border-collapse: collapse；">
   <tr>
     <td style="border: none；" >2021/09-2022/06</td>
@@ -24,6 +25,7 @@ nav_order: 5
 </table>
 
 ## 活动荣誉
+
 <table style="border: none； border-collapse: collapse；">
   <tr>
     <td style="border: none；">2021/09-2022/03</td>
@@ -36,6 +38,7 @@ nav_order: 5
 </table>
 
 ## 其他活动
+
 <table style="border: none；border-collapse: collapse；">
   <tr>
     <td style="border: none；">大学生英语四级</td>
